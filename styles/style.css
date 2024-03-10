@@ -766,6 +766,7 @@ footer {
   }
   .about_container {
     flex-direction: column;
+    margin-left: 1rem;
   }
 
   .services_container .cards {
