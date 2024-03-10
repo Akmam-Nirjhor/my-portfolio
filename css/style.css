@@ -717,7 +717,7 @@ footer {
     margin: 2 0.5rem;
   }
   .services_container .cards .card:hover::after {
-    transform: rotate(5deg);
+    transform: rotate(6deg);
   }
   .gallery a {
     height: 15rem;
