@@ -755,7 +755,7 @@ footer {
   }
 
   .header_right .text-3 .typing {
-    font-size: 450;
+    font-size: 350;
   }
   .header_right a {
     margin-bottom: 0.4rem;
@@ -766,7 +766,7 @@ footer {
   }
   .about_container {
     flex-direction: column;
-    margin-left: 1rem;
+    margin-left: 0.5rem;
   }
 
   .services_container .cards {
@@ -780,7 +780,7 @@ footer {
     margin: 1rem 1rem;
   }
   .services_container .cards .card:hover::after {
-    transform: rotate(6deg);
+    transform: rotate(5deg);
   }
   .gallery a {
     width: 25rem;
