@@ -793,4 +793,7 @@ footer {
   .gallery a {
     width: 25rem;
   }
+  .fot {
+    font-size: 1rem;
+  }
 }
