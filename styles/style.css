@@ -759,11 +759,11 @@ footer {
   }
 
   .header_right .text-3 {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
 
   .header_right .text-3 .typing {
-    font-size: 350;
+    font-size: 150;
   }
   .header_right a {
     margin-bottom: 0.4rem;
